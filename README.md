@@ -1,6 +1,8 @@
 # Modules in Rust: Organizing Your Code
 
-*Source:* [Modules in Rust: Organizing Your Code (Tutorial 24/100) | by Giorgio Martinez - Freedium](https://freedium.cfd/https://towardsdev.com/modules-in-rust-organizing-your-code-tutorial-24-100-f2f1c619d319)
+
+> *Source:* [Modules in Rust: Organizing Your Code (Tutorial 24/100) | by Giorgio Martinez - Freedium](https://freedium.cfd/https://towardsdev.com/modules-in-rust-organizing-your-code-tutorial-24-100-f2f1c619d319)
+> A good reminder about Rust, modules and code organization !
 
 
 
